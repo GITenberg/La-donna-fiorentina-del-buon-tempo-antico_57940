@@ -1,0 +1,25 @@
+_repo: La-donna-fiorentina-del-buon-tempo-antico_57940
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Del Lungo, Isidoro
+    aliases:
+    - Lungo, Isidoro del
+    - Lungo, I. del
+    birthdate: 1841
+    deathdate: 1927
+    gutenberg_agent_id: '49119'
+    url: http://www.gutenberg.org/2009/agents/49119
+description: ''
+gutenberg_issued: '2018-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57940'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La donna fiorentina del buon tempo antico
+url: http://www.gutenberg.org/ebooks/57940

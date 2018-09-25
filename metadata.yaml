@@ -1,5 +1,8 @@
 _repo: La-donna-fiorentina-del-buon-tempo-antico_57940
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57940-h/images/cover.jpg
 creator:
   author:
     agent_name: Del Lungo, Isidoro
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '49119'
     url: http://www.gutenberg.org/2009/agents/49119
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57940#La-donna-fiorentina-del-buon-tempo-antico
 gutenberg_issued: '2018-09-20'
 gutenberg_type: Text
 identifiers:
